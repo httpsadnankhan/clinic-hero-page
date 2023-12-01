@@ -18,3 +18,6 @@ Enhance your online presence with a sleek hero page that conveys professionalism
 ## Demo
 [View Demo] (https://httpsadnankhan.github.io/clinic-hero-page/)
 
+## Preview 
+
+![Screenshot (13)](https://github.com/httpsadnankhan/clinic-hero-page/assets/120323286/f4d874de-648b-4516-a7bd-0624f0369128)
