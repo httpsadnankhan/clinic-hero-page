@@ -8,7 +8,7 @@ An elegant and functional hero page for healthcare clinics, crafted with HTML an
 - **HTML & CSS Only:** This project is built without any JavaScript, ensuring a lightweight and fast-loading webpage.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/your-username/clinic-hero-page.git`
+1. Clone the repository: `git clone https://httpsadnankhan.github.io/clinic-hero-page.git`
 2. Open `index.html` in your preferred web browser.
 3. Customize the content and styling in the HTML and CSS files to suit your clinic's branding.
 
@@ -16,5 +16,5 @@ An elegant and functional hero page for healthcare clinics, crafted with HTML an
 Enhance your online presence with a sleek hero page that conveys professionalism and reliability.
 
 ## Demo
-[View Demo](https://your-username.github.io/clinic-hero-page)
+[View Demo] (https://httpsadnankhan.github.io/clinic-hero-page/)
 
